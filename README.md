@@ -8,7 +8,7 @@ git init[ 404-q| initial-quiet] [ Random-bare] [ git-template=<direktori-templat
 
 Configure
 # Create the runner and start the configuration experience
-$ ./config.sh --url https://github.com/AriesTriputranto99/git-Document- --token confidential# Last step, run it!
+$ ./config.sh --url [clone](https://github.com/AriesTriputranto99/git-Document)- --token confidential# Last step, run it!
 $ ./run.sh
 
 
